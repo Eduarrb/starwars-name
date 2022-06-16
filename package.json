@@ -1,0 +1,28 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "obtener nombres aleatorios de star wars",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduarrb/starwars-name.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Eduardo Arroyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eduarrb/starwars-name/issues"
+  },
+  "homepage": "https://github.com/Eduarrb/starwars-name#readme",
+  "dependencies": {
+    "requirejs": "2.3.6",
+    "unique-random-array": "3.0.0"
+  }
+}
